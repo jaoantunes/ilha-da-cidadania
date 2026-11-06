@@ -1,4 +1,4 @@
-# Ilha da Energia
+# Ilha da Cidadania
 
 Jogo de tabuleiro 3D low-poly feito em Godot 4.7. Jogue em https://jaoantunes.github.io/ilha-da-energia/
 
